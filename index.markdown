@@ -10,5 +10,5 @@ image: images/rozen.jpg
     src="https://www.canva.com/design/DAGtDJybm7k/SOYze2UFdOeaUo3vtk-MXA/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGtDJybm7k&#x2F;SOYze2UFdOeaUo3vtk-MXA&#x2F;view?utm_content=DAGtDJybm7k&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Familie Roos stamboom</a> door Jeanine Smit - de Jong  
-Laatste update: 17 juli 2025. Bij fouten of opmerkingen, app Jeanine.
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGtDJybm7k&#x2F;SOYze2UFdOeaUo3vtk-MXA&#x2F;view?utm_content=DAGtDJybm7k&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Familie Roos stamboom</a> door Jeanine Smit - de Jong.
+Bij fouten of opmerkingen, app Jeanine.
